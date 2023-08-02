@@ -1,8 +1,8 @@
 # RWPS - RedWhitePavilionStudio  
-## a.k.a. RWS / RPS , Either is OK.  
+a.k.a. RWS / RPS , Either is OK.  
 
 # What's this? / 这是什么寄吧组织？
-RWP's creators, also did some awesome(awful) gadgets and many bugs
+RWP's creators, also did some awesome(awful) gadgets and many bugs  
 红白阁服务器的维护团队，同时也做一些牛（sha）掰（bi）的服务器用小工具和出产代码垃圾  
 If you want to join, just ask P4 to make you a member of us  
 如果你想要加入找那个破三棱锥就可以，~~反正这也不会长期维护x~~  
