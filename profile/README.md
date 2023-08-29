@@ -30,10 +30,8 @@ GalaxySympony, aka SSD / Sky_Star_Dust, the only datapack coder in this org.
 SSD，一般叫他这个名字，是我们唯一的数据包编写者。  
 Most of the time he can't reach the Github so he stays offline.  
 大部分时间你找不到他，因为他被墙了，所以很多时间他都不在线。  
-littleboluo, a crazy technical survival player.   
-菠萝，她是个河坝玩家兼生~~抄~~电玩家。  
-Most of the time she can't reach the Github so she stays offline.  
-她也一样被墙了。  
+littleboluo, a insane technical survival player.   
+菠萝，她是个河坝玩家兼生~~缝合~~电玩家。  
 
 # What can I do for this org? / 我能做什么？
 ~~PAY US 50 DOLLARS TO MAKE US ABLE TO EAT CRAZY THURSDAY~~  
