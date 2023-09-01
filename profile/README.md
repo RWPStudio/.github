@@ -37,7 +37,3 @@ littleboluo, she is an insane technical survival player.  She often raises vario
 ~~PAY US 50 DOLLARS TO MAKE US ABLE TO EAT CRAZY THURSDAY~~  
 ~~疯狂星期四v我50~~  
 
-# Most-used languages / 常用语言
-| <img align="center" src="https://github-readme-stats.vercel.app/api?organizationname=RWPStudio&show_icons=true&locale=cn&hide_border=true&theme=buefy" alt="huxk's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RWPStudio&layout=compact&locale=cn&hide_border=true&theme=buefy" /> |
-| ------------- | ------------- |  
-
