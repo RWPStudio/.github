@@ -31,8 +31,8 @@ SSD，一般叫他这个名字，是我们唯一的数据包编写者。
 Most of the time he can't reach the Github so he stays offline.  
 大部分时间你找不到他，因为他被墙了，所以很多时间他都不在线。  
 littleboluo, she is an insane technical survival player.  
-菠萝，她是个河坝玩家兼生~~缝合~~电玩家，
-She often raises various strange questions. 
+菠萝，她是个河坝玩家兼生~~缝合~~电玩家，  
+She often raises various strange questions.   
 经常提各种奇奇怪怪的问题。
 
 # What can I do for this org? / 我能做什么？
